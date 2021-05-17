@@ -1,0 +1,25 @@
+{
+  "name": "my-first-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can-deparam": "^1.2.3",
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.16.4",
+    "hbs": "^4.1.2",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "cheerio": "latest",
+    "nodemon": "^1.18.4",
+    "request": "^2.88.2"
+  }
+}
